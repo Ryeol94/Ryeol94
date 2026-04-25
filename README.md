@@ -9,4 +9,4 @@ a
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=ryeol94&show_icons=true&theme=radical" />
 </div>
-![snake gif](https://raw.githubusercontent.com/Ryeol94/Ryeol94/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ryeol94/ryeol94/blob/output/github-contribution-grid-snake.svg)
